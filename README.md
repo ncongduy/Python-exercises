@@ -1,2 +1,2 @@
 # Python-exercises
-These are my Python exercises file.
+These are my Python exercise files.
